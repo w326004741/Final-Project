@@ -28,3 +28,10 @@ Tip: IOS needs to be installed in Mac OS X. and Xcode environments.
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－   
 Ionic Lab is the desktop development environment,if you do not like to use 
 the command line operation,Ionic Lab will meet your needs.
+-----------------------------------------------------------------------------------------
+Xamarin Introduction:
+ Xamarin can be cross-platform development, including IOS, Android, WP and Mac App.
+ Xamarin Studio is a C # language development environment, also includes its own UI generator,
+ the perfect support for Visual Studio.
+---------------------------------------------------------------------------------------
+
