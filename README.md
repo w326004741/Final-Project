@@ -2,7 +2,7 @@
 
 ### Brief Introduction:
   
-  This is the timetable APP of our team development.
+  This is our team developed android APP.
   
   It is called Timetable and it is used for plan the daily schedule.
 
