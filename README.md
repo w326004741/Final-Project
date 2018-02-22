@@ -1,5 +1,6 @@
-# Final-Project
+# Final Project - Timetable APP
 
+> Team members - *Zehua Yu, Weichen Wang*
 ### Brief Introduction:
   
   This is our team developed android APP.
